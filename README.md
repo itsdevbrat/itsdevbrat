@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 I'm Devbrat!, <br>
-A passionate self-taught Full Stack Web Developer from Mumbai,India.<br>
+A passionate self-taught Full Stack Developer from Mumbai,India.<br>
 I have 3 years of experience in Full Stack Web Development (AWS, Node.js, SQL, NoSQL, Android, Vanilla JS)
 <br>
 - 🔭 I’m currently working at Barclays
